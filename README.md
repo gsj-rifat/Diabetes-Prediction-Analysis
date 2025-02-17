@@ -1,6 +1,6 @@
 # Diabetes Prediction & Analysis 📊
 
-This project focuses on predicting diabetes using machine learning models and performing exploratory data analysis (EDA) on a healthcare dataset. The dataset is sourced from Kaggle ([Healthcare-Diabetes Dataset](https://www.kaggle.com/datasets/nanditapore/healthcare-diabetes/data)).
+This project focuses on predicting diabetes using machine learning models and performing exploratory data analysis (EDA) on a healthcare dataset.
 
 ## 🔍 Features:
 - **Data Preprocessing & Cleaning**: Handling missing values and outliers using Z-score analysis.
@@ -31,3 +31,7 @@ This project focuses on predicting diabetes using machine learning models and pe
 - SciPy
 
 Feel free to contribute, suggest improvements, or fork the repository! 🛠️🔬
+
+
+# Data Source: The dataset is sourced from Kaggle ([Healthcare-Diabetes Dataset](https://www.kaggle.com/datasets/nanditapore/healthcare-diabetes/data)).
+dataset Credit: Nandita Pore (Owner) from Kaggle
